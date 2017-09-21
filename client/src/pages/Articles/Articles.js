@@ -138,4 +138,4 @@ class Articles extends Component {
   }
 }
 
-export default Books;
+export default Articles;
